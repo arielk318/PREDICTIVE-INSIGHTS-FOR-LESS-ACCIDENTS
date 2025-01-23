@@ -44,17 +44,21 @@ code/: Python scripts for training models and generating results.
 data/: Preprocessed and raw datasets.
 report/: Final project report and documentation.
 requirements.txt: Dependencies for running the project.
+
 Results
 Predictive Models: Gradient Boosting achieved the highest accuracy (82%) for predicting accident outcomes.
 Clustering: Agglomerative Clustering provided the most distinct separation of risk zones with a Silhouette Score of 0.95.
 Visualizations: PCA and t-SNE demonstrated clear separation of clusters and relationships between features.
 Contributors
+
 Ariel Koren: Clustering analysis, final report preparation.
 Assaf Benkormono: Predictive modeling, pipeline development, and presentation preparation.
+
 Future Directions
 Explore causal relationships between features and accident severity.
 Integrate external datasets to enhance prediction accuracy.
 Implement deep learning techniques for improved feature extraction.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
