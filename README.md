@@ -52,6 +52,7 @@ Visualizations: PCA and t-SNE demonstrated clear separation of clusters and rela
 Contributors
 
 Ariel Koren: Clustering analysis, final report preparation.
+
 Assaf Benkormono: Predictive modeling, pipeline development, and presentation preparation.
 
 Future Directions
